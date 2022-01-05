@@ -115,9 +115,14 @@ li {
 .special {
     padding: 0 150px;
     text-align: center;
+    background-image: url(images/shapes/shape-1.png);
+    background-size: 900px;
+    background-repeat: no-repeat;
+    background-position: left center;
+    border-right: tomato solid 10px;
 }
 
 .special p {
-    font-size: 30px;
+    font-size: 20px;
     
 }
