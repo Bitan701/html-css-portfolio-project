@@ -103,3 +103,21 @@ footer {
     color: white;
     text-align: center;
 }
+
+li {
+    padding: 10px;
+}
+
+.half-width-height {
+    height: 200px;
+}
+
+.special {
+    padding: 0 150px;
+    text-align: center;
+}
+
+.special p {
+    font-size: 30px;
+    
+}
